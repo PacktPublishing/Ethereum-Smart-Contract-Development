@@ -1,0 +1,38 @@
+· What is Web3.js?
+· Importing web3.js in Node.js and client-side JavaScript
+
+https://github.com/ethereum/wiki/wiki/JavaScript-API
+https://ethereum.stackexchange.com/questions/10681/what-are-ipc-and-rpc
+
+· Connecting to geth
+· Exploring the various things that can be done using web3.js
+· Discovering various most used APIs of web3.js
+· Building a Node.js application for an ownership contract
+
+https://www.safaribooksonline.com/library/view/building-blockchain-projects/9781787122147/a7c37499-ae62-4da2-8552-485c4bac4b7a.xhtml
+
+
+General introduction to Web3.js
+• Geth
+• API structure of Web3.js
+In a nutshell, the functions inside API sub-modules of web3.eth module help to accomplish the following tasks.
+
+web3.eth.subscribe lets us to subscribe specific events happening on the blockchain.
+web3.eth.Contract makes it easy to interact with smart contracts on the blockchain, as if they are JavaScript objects.
+web3.eth.accounts helps to generate data,Ethereum accounts and sign transactions.
+web3.eth.personal allows our contract to interact with the Ethereum node’s accounts.
+web3.eth.Iban let us convert ethereum addresses from and to IBAN (International Banking Account Number) and BBAN (Basic Banking Account Number).
+web3.eth.abi allows the contract to decode and encode parameters to Application Binary Interface (ABI) for function calls to the Ethereum Virtual Machine (EVM).
+web3.eth.net helps our contract to interact with the network properties of Ethereum nodes.
+
+
+• Making various operations using Web3.js like retrieving gas price, sending ether and working with contracts
+
+
+
+
+
+Geth is the command line interface / tool for running a full Ethereum node implemented in Go language.
+Mist is the browser for decentralized web apps running on Ethereum network. It can be used as wallet as well.
+Web3.js is a javascript API to interact with Ethereum node which relies on RPC . 
+It can be used with any Ethereum node which exposes RPC like GETH ,Mist, Parity.
