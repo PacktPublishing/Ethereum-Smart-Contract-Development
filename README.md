@@ -21,8 +21,6 @@ contract ArithValue{
 	uint number;
 ```
 
-To get the most from this book, you need a basic knowledge of programming with the
-Arduino IDE and electronics.
 
 ## Related Products
 * [Building Blockchain Projects](https://www.packtpub.com/big-data-and-business-intelligence/building-blockchain-projects)
