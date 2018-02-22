@@ -1,5 +1,5 @@
 # 	Ethereum Smart Contract Development
-This is the code repository for [	Ethereum Smart Contract Development](https://www.packtpub.com/big-data-and-business-intelligence/ethereum-smart-contract-developments), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [	Ethereum Smart Contract Development](https://www.packtpub.com/big-data-and-business-intelligence/ethereum-smart-contract-development), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Ethereum is a public, blockchain-based distributed computing platform featuring smart contract functionality. This book is your one-stop guide to blockchain and Ethereum smart contract development.
 
